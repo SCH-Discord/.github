@@ -1,6 +1,6 @@
 # SCH-Discord
 
-[![-](https://raw.githubusercontent.com/SCH-Discord/.github/main/profile/logo.png)](#)
+[![-](https://raw.githubusercontent.com/SCH-Discord/image/main/logo.png)](#)
 
 
 
