@@ -1,6 +1,8 @@
 # SCH-Discord
 
-[![-](logo.png)](#)
+[![-](https://raw.githubusercontent.com/SCH-Discord/.github/main/profile/logo.png)](#)
+
+
 
 학교 공지들을 디스코드를 통해 전달해드립니다.
 
